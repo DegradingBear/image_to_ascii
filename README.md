@@ -2,7 +2,7 @@
 Tkinter gui that converts a given image into ascii text based on a grey scale mapping to 'darkness' of ascii character.
 To run, run the 'img_to_ascii_gui.py' file in terminal.
 
-|Paramter| effect|
+|Parameter| effect|
 |---|---|
 |image path| path (relative to python file location) of image to be converted|
 |character width|(optional) how many ascii characters WIDE the string should be (height is scaled accordingly by original aspect ratio of image|
